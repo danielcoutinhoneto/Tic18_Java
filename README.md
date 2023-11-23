@@ -1,6 +1,6 @@
 # Residência em Tecnologia da Informação e Comunicação
 
-![Logo Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg){width=100px}
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Logo Java" width="100">
 
 - MÓDULO DE JAVA (POI - PRÁTICA ORIENTADA)
 
